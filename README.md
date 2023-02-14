@@ -10,7 +10,7 @@
 Telegram: @pedrovmc <br>
 E-mail: opedrovmc@gmail.com
 
-## Recent Projects
+## Recent Open Source Projects 
 Currency Converter TDD practice
 <p float="left" align="middle">
 <img src="https://user-images.githubusercontent.com/31806810/218512643-20686c3a-4a0d-4036-859c-054fa32b4d51.png" width="150" >
