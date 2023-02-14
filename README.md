@@ -10,3 +10,15 @@
 Telegram: @pedrovmc <br>
 E-mail: opedrovmc@gmail.com
 
+## Recent Projects
+Currency Converter TDD practice
+<p float="left" align="middle">
+<img src="https://user-images.githubusercontent.com/31806810/218512643-20686c3a-4a0d-4036-859c-054fa32b4d51.png" width="150" >
+<img src="https://user-images.githubusercontent.com/31806810/218512792-8fb83dd4-b8fe-488d-a757-82070cc3d798.png" width="150" >
+</p>
+
+Google places API chalenge
+<p float="left" align="middle">
+<img src="https://user-images.githubusercontent.com/31806810/215352626-a033ecb1-1848-4043-af05-f2add83f7251.png" width="150" >
+<img src="https://user-images.githubusercontent.com/31806810/215352623-94cc3e90-c73a-4f9f-accb-6464c240e469.png" width="150" >
+</p>
